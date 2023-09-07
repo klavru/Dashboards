@@ -1,4 +1,3 @@
-Dashboards
 
 Product Analyst Project: 
 https://public.tableau.com/app/profile/karolina.lavrukaityte/viz/ProductAnalystGradedTaskv6/ProductAnalystDashboard
